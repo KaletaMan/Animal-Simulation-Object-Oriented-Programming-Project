@@ -32,12 +32,15 @@ Here you can choose a preset configuration or create a new one.
 ![Simulation Panel1](pictures/sim1.png)
 
 Observing an animal.
+
 ![Simulation Panel3](pictures/sim3.png)
 
 Displaying fertile tiles.
+
 ![Simulation Panel4](pictures/sim4.png)
 
 Different map size.
+
 ![Simulation Panel5](pictures/sim5.png)
 
 ## Running the Project
