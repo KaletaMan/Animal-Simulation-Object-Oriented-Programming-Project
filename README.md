@@ -1,6 +1,9 @@
 # Animal Simulation – Object-Oriented Programming Project
 This project was developed as part of the Object-Oriented Programming course (3rd semester). Its objective was to implement a simulation of an environment with an animal population. The application was written entirely in Java, utilizing JavaFX for the graphical user interface and Gradle as the build system.
 
+## Note
+This is a reupload of https://github.com/ermontratea/PO_2024_PT1130_BOBINSKI, were project was primary done by me and ermontratea, because of my accound change (old one - KaletaMik).
+
 ## Project Description
 The simulation depicts the evolution of an animal population within a confined environment. Animals move, reproduce, gain energy from food, and die based on various environmental factors. The goal of the project was not only to create a functional simulation but also to design a clear architecture consistent with object-oriented programming principles.
 
